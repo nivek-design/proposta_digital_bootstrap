@@ -1,0 +1,119 @@
+
+html, body {
+    width: 100%;
+    height: 100%;
+}
+
+.space_section {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+
+.col-lg-2  {
+    width: 19% ;
+}
+
+#nossosquad  {
+    height: 100vh;
+}
+
+#home_projeto {
+    height: 100vh;
+}
+
+#a_hausenn {
+    height:80vh;
+}
+
+#one {
+    height: 60vh;
+    background-color: #fff !important;
+}
+
+.height_card {
+    min-height: 250px;
+}
+
+.height_slide {
+    min-height: 500px;
+}
+
+#card_slide {
+    
+    border: 3px solid #fff;
+    
+}
+
+.img_card {
+    
+}
+
+.col {
+    transition: all ease-in;
+    filter: grayscale(100%);
+}
+
+.col:hover {
+    transform: scale(1.04);
+    filter: grayscale(0);
+}
+
+.offcanvas {
+    --bs-offcanvas-width: 380px !important;
+    background-color: #fff !important;
+}
+
+.navbar-nav {
+    --bs-nav-link-padding-y: 1rem !important;
+}
+
+
+.nav-link{
+    transition:  .4s !important;
+
+}
+.nav-link:hover {
+    color: rgb(255, 255, 255) !important;
+    margin-left: 10px;
+    background: #000000;
+    padding-left: 10px;
+  
+
+}
+
+#card {
+    min-height: 320px;
+    height: auto;
+    width: 250px;
+    margin: 1em;
+}
+
+/* #background-one {
+  
+    background: url(img/—Pngtree—black\ background\ picture\ material\ png_2310312.png)  ;
+    background-position: inherit;
+    background-repeat: no-repeat;
+    background-size: 800px auto;
+    
+} */
+
+
+.aparelhos_projeto {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    background-color: #fff;
+    min-height: 190vh;
+    height: auto;
+}
+
+.card:hover {
+    
+    transform: scale(1.04);
+}
+
+
+li > a {
+    text-decoration: none;
+    list-style: none;
+}
