@@ -45,10 +45,6 @@ html, body {
     
 }
 
-.img_card {
-    
-}
-
 .col {
     transition: all ease-in;
     filter: grayscale(100%);
@@ -113,7 +109,3 @@ html, body {
 }
 
 
-li > a {
-    text-decoration: none;
-    list-style: none;
-}
